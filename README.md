@@ -1,1 +1,3 @@
-# php-enum-DEV
+# php-enumerator
+
+Enumerator functionalities for PHP
