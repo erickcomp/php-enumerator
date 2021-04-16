@@ -1,0 +1,19 @@
+{
+    "name": "erickcomp/enumerator",
+    "description": "Mimics Enumerator features",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+            "name": "Erick de Azevedo Lima",
+            "email": "ericklima.comp@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload" : {
+        "psr-4": {
+            "erickcomp\\Enumerator\\": "src/"
+        }
+    }
+}
